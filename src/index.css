@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    min-width: 0;
+    outline: none;
+}
+
+input {
+    color-scheme: dark;
+}
+
+:root {
+    --rdp-accent-color: #BEF264;
+    --rdp-background-color: green;
+  }
